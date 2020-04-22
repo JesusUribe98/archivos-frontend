@@ -1,0 +1,14 @@
+body { background-color: #4bb5f7; }
+
+body h1 { font-family: "Anton", sans-serif; text-align: center; }
+
+body h2, body p { font-family: "Bitter", serif; text-align: center; }
+
+.menu { list-style: none; background: #03aeb4; }
+
+.menu li { display: inline-block; padding: 10px; }
+
+.menu li a { text-decoration: none; color: #ffffff; padding: 10px; }
+
+.menu li a:hover { text-decoration: none; color: black; background: #afd8fa; }
+/*# sourceMappingURL=estilos.css.map */
